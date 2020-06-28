@@ -42,7 +42,7 @@ export default class Home extends Component {
         const dailyData = res.data.list.filter((item) =>
           item.dt_txt.includes("18:00:00")
         );
-        console.log(dailyData);
+
         this.setState({
           dailyData: dailyData,
           cityData: res.data.city,
