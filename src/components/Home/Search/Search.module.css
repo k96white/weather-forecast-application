@@ -1,0 +1,13 @@
+.InputBox {
+  padding: 5px;
+  min-width: 30%;
+  border: 1px solid black;
+  border-radius: 5px;
+}
+.SearchBtn {
+  padding: 5px;
+  margin-left: 5px;
+  background-color: red;
+  color: aqua;
+  cursor: pointer;
+}

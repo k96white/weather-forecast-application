@@ -1,0 +1,17 @@
+.CardContainer {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.HourlyDataBtn {
+  background-color: red;
+  border-radius: 5px;
+  padding: 5px;
+  margin-top: 5px;
+  color: aliceblue;
+}
+.HourlyDataBtn:hover {
+  background-color: lightcoral;
+  color: black;
+}

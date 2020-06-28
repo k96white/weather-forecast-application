@@ -1,0 +1,11 @@
+.HeadContainer {
+  background-color: lightskyblue;
+  margin-top: 0px;
+  padding: 5px;
+}
+
+a {
+  text-decoration: none;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: black;
+}
